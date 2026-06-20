@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "smp1-wf1L.aternos.me:25740",
+    "ip": "smp1-wf1L.aternos.me",
     "port": 25740,
     "version": "1.21.1"
   },
